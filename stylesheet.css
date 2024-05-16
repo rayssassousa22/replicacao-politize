@@ -9,16 +9,16 @@ nav ul {
     margin: 0;
 }
 
-nav ul li a #marca :hover{
-    color: red;
-}
-
 #marca {
     color: antiquewhite;
     text-decoration: none;
     padding: 30px 30px;
     text-align: center;
-    font-size: 75px;
+    font-size: 55px;
+}
+
+#marca:hover{
+    color:red;
 }
 
 strong {
