@@ -1,6 +1,7 @@
 nav{
     background-color: black;
     min-height: 100px;
+    
 }
 
 nav ul {
@@ -12,8 +13,7 @@ nav ul {
 #marca {
     color: antiquewhite;
     text-decoration: none;
-    padding: 30px 30px;
-    text-align: center;
+    padding: 30px 30px 0 30px;
     font-size: 55px;
 }
 
@@ -23,4 +23,10 @@ nav ul {
 
 strong {
     color: rgb(252, 193, 1);
+}
+
+form input {
+    min-width: 70px;
+    padding: 5px 30px 45px 30px;
+    color: antiquewhite;
 }
