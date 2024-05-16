@@ -20,6 +20,6 @@ strong {
     color: rgb(252, 193, 1);
 }
 
-#marca :hover{
+nav ul li a #marca :hover{
     color: red;
 }
