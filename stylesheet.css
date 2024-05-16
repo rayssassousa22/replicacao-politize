@@ -26,7 +26,11 @@ strong {
 }
 
 form input {
-    min-width: 100px;
+    min-width: 500px;
     min-height: 20px;
     margin: 25px 15px 30px 150px;
+}
+
+form button :hover{
+    background-color: white;
 }
