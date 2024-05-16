@@ -21,6 +21,14 @@ nav ul {
     color:red;
 }
 
+#menu :hover{
+    color:rgb(252, 193, 1);
+}
+
+#doacao :hover{
+    background-color: white;
+}
+
 strong {
     color: rgb(252, 193, 1);
 }
@@ -44,10 +52,6 @@ form button{
     font-size: 25px;
 }
 
-#doacao :hover{
-    background-color: white;
-}
-
 nav ul li {
     margin-top: 25px;
 }
@@ -58,8 +62,4 @@ nav ul li {
     text-decoration: none;
     font-size: 25px;
     margin-left: 35px;
-}
-
-#menu :hover{
-    color:rgb(252, 193, 1);
 }
