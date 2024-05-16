@@ -44,3 +44,7 @@ form button{
     margin: 10px 0 15px 25px;
     font-size: 25px;
 }
+
+nav ul li {
+    margin-top: 20px;
+}
