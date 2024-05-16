@@ -1,7 +1,7 @@
 nav{
     background-color: black;
     min-height: 100px;
-    align-items: center;
+    text-align: center;
 }
 
 nav ul {
