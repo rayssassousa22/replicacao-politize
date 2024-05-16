@@ -21,11 +21,11 @@ nav ul {
     color:red;
 }
 
-#menu :hover{
+#menu:hover{
     color:rgb(252, 193, 1);
 }
 
-#doacao :hover{
+#doacao:hover{
     background-color: white;
 }
 
