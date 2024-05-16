@@ -1,6 +1,6 @@
 nav{
     background-color: black;
-    max-height: 30%;
+    min-height: 100px;
 }
 
 nav ul {
@@ -21,9 +21,4 @@ strong {
 
 #marca :hover{
     color: red;
-}
-
-nav ul li a:hover {
-    color: black;
-    background-color: grey;
 }
