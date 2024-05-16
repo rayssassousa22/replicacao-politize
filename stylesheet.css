@@ -31,6 +31,6 @@ form input {
     margin: 25px 15px 30px 150px;
 }
 
-form button :hover{
-    background-color: white;
+form button{
+    margin: 20px 150px;
 }
