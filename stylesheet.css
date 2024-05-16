@@ -14,7 +14,6 @@ nav ul {
     text-decoration: none;
     padding: 15px;
     font-size: 55px;
-    margin-top: 20px;
 }
 
 #marca:hover{
@@ -58,6 +57,10 @@ form button{
     text-decoration: none;
     font-size: 25px;
     margin-left: 35px;
+}
+
+nav ul li {
+    margin-top: 20px;
 }
 
 .headerItems {
