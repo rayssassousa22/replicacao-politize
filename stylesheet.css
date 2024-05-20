@@ -63,7 +63,6 @@ nav ul li {
     margin-top: 35px;
 }
 
-ul {
-    align-items: right;
-    display: flex;
+.headerItems {
+    margin-top: 40px;
 }
