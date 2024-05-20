@@ -66,5 +66,5 @@ nav ul li {
 div {
     align-items: right;
     display: flex;
-    margin-block-end: 0;
+    margin-left: 0;
 }
