@@ -86,3 +86,7 @@ footer a {
 section {
     margin-left: 200px;
 }
+
+footer ul li a :hover{
+    color: rgb(252, 193, 1);
+}
