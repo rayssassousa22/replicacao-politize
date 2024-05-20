@@ -78,9 +78,11 @@ footer{
     color: antiquewhite;
 }
 
-footer a {
+footer section ul li a {
     list-style-type: none;
     color: antiquewhite;
+    margin: 0;
+    padding: 0;
 }
 
 section {
