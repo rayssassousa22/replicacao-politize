@@ -85,7 +85,7 @@ footer a {
 }
 
 section {
-    margin-left: 200px;
+    margin: 80px 0 0 200px;
 }
 
 footer section ul li :hover{
