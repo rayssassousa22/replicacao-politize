@@ -63,6 +63,7 @@ nav ul li {
     margin-top: 35px;
 }
 
-.headerItems {
+div {
     margin-top: 40px;
+    align-items: right;
 }
