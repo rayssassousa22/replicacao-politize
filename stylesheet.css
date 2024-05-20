@@ -69,4 +69,10 @@ nav ul li {
 
 footer{
     display: flex;
+    background-color: black;
+}
+
+#contactSection {
+    margin-left: 400px;
+    color: antiquewhite;
 }
