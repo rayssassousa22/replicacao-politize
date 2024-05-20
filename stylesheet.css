@@ -91,3 +91,8 @@ section {
 footer section ul li :hover{
     color: rgb(252, 193, 1);
 }
+
+#mainContent {
+    background-color: black;
+    color: antiquewhite;
+}
