@@ -10,17 +10,17 @@ nav ul {
     margin-left: 200px;
 }
 
-#marca {
+.marca {
     color: antiquewhite;
     text-decoration: none;
     font-size: 30px;
 }
 
-#marca:hover{
+.marca:hover{
     color:red;
 }
 
-#menu:hover{
+.menu:hover{
     color:rgb(252, 193, 1);
 }
 
@@ -68,5 +68,5 @@ nav ul li {
 }
 
 footer{
-    display: inline;
+    display: flex;
 }
