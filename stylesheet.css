@@ -93,6 +93,9 @@ footer section ul li :hover{
 }
 
 #mainContent {
-    background-color: black;
     color: antiquewhite;
+}
+
+body{
+    background-color: black;
 }
