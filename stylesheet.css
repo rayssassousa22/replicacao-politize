@@ -81,3 +81,7 @@ footer a {
     list-style-type: none;
     color: antiquewhite;
 }
+
+section {
+    margin-left: 200px;
+}
