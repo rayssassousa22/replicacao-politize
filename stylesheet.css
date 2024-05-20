@@ -78,7 +78,7 @@ footer{
     color: antiquewhite;
 }
 
-footer section ul li a {
+footer a {
     list-style-type: none;
     color: antiquewhite;
     margin: 0;
