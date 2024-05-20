@@ -66,3 +66,7 @@ nav ul li {
 .headerItems {
     margin-top: 40px;
 }
+
+#footer{
+    display: inline;
+}
