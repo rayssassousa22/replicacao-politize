@@ -73,6 +73,11 @@ footer{
 }
 
 #contactSection {
-    margin-left: 400px;
+    margin-left: 700px;
+    color: antiquewhite;
+}
+
+footer a {
+    list-style-type: none;
     color: antiquewhite;
 }
