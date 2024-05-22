@@ -92,7 +92,7 @@ footer section ul li :hover{
     color: rgb(252, 193, 1);
 }
 
-#mainContent {
+#mainContent section {
     color: antiquewhite;
     text-align: center;
     margin: 0;
