@@ -51,6 +51,10 @@ form {
     display: flex;
 }
 
+form button {
+    margin-right: 50%;
+}
+
 #doacao {
     color: black;
     background-color: rgb(252, 193, 1);
