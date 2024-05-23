@@ -46,7 +46,9 @@ form input {
     min-height: 30px;
 }
 
-form {margin: 30px 200px 30px 200px;}
+form {
+    margin: 30px 200px 30px 200px;
+}
 
 
 #doacao {
@@ -56,6 +58,7 @@ form {margin: 30px 200px 30px 200px;}
     text-decoration: none;
     padding: 15px;
     font-size: 20px;
+    margin-top: 40px;
 }
 
 #menu {
@@ -64,15 +67,13 @@ form {margin: 30px 200px 30px 200px;}
     text-decoration: none;
     font-size: 25px;
     margin-left: 25px;
+    margin-top: 40px;
 }
 
 nav ul li {
     margin-top: 35px;
 }
 
-.headerItems {
-    margin-top: 40px;
-}
 
 footer{
     display: flex;
