@@ -1,7 +1,7 @@
 header nav {
     background-color: black;
     min-height: 120px;
-    align-items: center;
+    text-align: center;
 }
 
 nav ul {
