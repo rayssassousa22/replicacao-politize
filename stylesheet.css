@@ -78,6 +78,7 @@ footer{
     display: flex;
     background-color: black;
     font-size: 25px;
+    margin-left: 5%;
 }
 
 #contactSection {
@@ -104,6 +105,4 @@ footer section ul li :hover{
 
 body{
     background-color: black;
-    margin-left: 15%;
-    margin-right: 15%;
 }
