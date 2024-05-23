@@ -23,6 +23,7 @@ nav ul {
     color: antiquewhite;
     text-decoration: none;
     font-size: 30px;
+    margin-top: 35px;
 }
 
 .marca:hover{
@@ -68,10 +69,6 @@ form {
     font-size: 25px;
     margin-left: 25px;
     margin-top: 40px;
-}
-
-nav ul li {
-    margin-top: 35px;
 }
 
 
