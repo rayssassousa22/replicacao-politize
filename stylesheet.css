@@ -42,8 +42,8 @@ strong {
 }
 
 form input {
-    min-width: 200px;
-    min-height: 40px;
+    min-width: 250px;
+    min-height: 30px;
 }
 
 form {margin: 30px 200px 30px 200px;}
