@@ -35,7 +35,7 @@ strong {
 form input {
     min-width: 200px;
     min-height: 30px;
-    margin: 10% 0 10% 25%;
+    margin: 10% 25% 10% 25%;
 }
 
 form button{
