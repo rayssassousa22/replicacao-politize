@@ -42,11 +42,11 @@ strong {
 form input {
     min-width: 200px;
     min-height: 30px;
-    margin: 0 0 0 150px;
+    margin: 6% 0 5% 150px;
 }
 
 form button{
-    margin: 10% 150px 5% 0;
+    margin: 35px 150px 30px 0;
 }
 
 #doacao {
@@ -66,6 +66,9 @@ form button{
     margin-left: 25px;
 }
 
+nav ul li {
+    margin-top: 35px;
+}
 
 .headerItems {
     margin-top: 40px;
