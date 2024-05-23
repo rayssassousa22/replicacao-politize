@@ -84,7 +84,12 @@ form {
 }
 
 
-
+#mainContent {
+    max-width: 1440px;
+    margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
 
 
 
