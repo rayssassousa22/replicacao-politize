@@ -14,7 +14,6 @@ nav ul {
     color: antiquewhite;
     text-decoration: none;
     font-size: 30px;
-    margin-right: 10%;
 }
 
 .marca:hover{
@@ -36,7 +35,7 @@ strong {
 form input {
     min-width: 200px;
     min-height: 30px;
-    margin-top: 5%;
+    margin: 10% 0 10% 25%;
 }
 
 form button{
