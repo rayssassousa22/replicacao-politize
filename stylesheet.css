@@ -86,7 +86,7 @@ footer{
     list-style-type: none;
 }
 
-footer a {
+footer section ul li a {
     list-style-type: none;
     color: antiquewhite;
     list-style: none;
