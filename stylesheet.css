@@ -44,12 +44,10 @@ strong {
 form input {
     min-width: 250px;
     min-height: 40px;
-    margin: 10px 0 10px 200px;
 }
 
-form button{
-    margin: 35px 200px 35px 0;
-}
+form {margin: 15px 200px 15px 200px;}
+
 
 #doacao {
     color: black;
