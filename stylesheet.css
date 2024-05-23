@@ -1,14 +1,14 @@
 header{
     background-color: black;
     min-height: 120px;
-    margin: 0;
     margin-left: 200px;
 }
+
+nav{margin: 0;}
 
 nav ul {
     display: flex;
     list-style: none;
-    margin: 0;
 }
 
 .bar {
