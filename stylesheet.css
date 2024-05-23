@@ -47,7 +47,9 @@ form input {
     margin: 4% 0 7% 15%;
 }
 
-
+form {
+    display: flex;
+}
 
 #doacao {
     color: black;
