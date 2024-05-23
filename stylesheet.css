@@ -10,6 +10,13 @@ nav ul {
     margin-left: 200px;
 }
 
+.bar {
+    padding: 20px;
+    background-color: rgb(56, 0, 0);
+    border-top: solid 1px red;
+    border-bottom: solid 1px red;
+}
+
 .marca {
     color: antiquewhite;
     text-decoration: none;
