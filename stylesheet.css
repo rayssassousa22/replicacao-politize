@@ -11,7 +11,7 @@ nav ul {
 }
 
 .bar {
-    padding: 20px;
+    padding: 10px;
     background-color: rgb(56, 0, 0);
     border-top: solid 1px red;
     border-bottom: solid 1px red;
@@ -27,7 +27,7 @@ nav ul {
     color:red;
 }
 
-.menu:hover{
+#menu:hover{
     color:rgb(252, 193, 1);
 }
 
@@ -42,7 +42,7 @@ strong {
 form input {
     min-width: 200px;
     min-height: 30px;
-    margin: 40px 15px 30px 150px;
+    margin: 15% 5% 20% 150px;
 }
 
 form button{
