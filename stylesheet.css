@@ -10,17 +10,11 @@ nav ul {
     margin: 0;
 }
 
-.bar {
-    padding: 10px;
-    background-color: rgb(56, 0, 0);
-    border-top: solid 1px red;
-    border-bottom: solid 1px red;
-}
-
 .marca {
     color: antiquewhite;
     text-decoration: none;
     font-size: 30px;
+    margin-right: 10%;
 }
 
 .marca:hover{
@@ -42,6 +36,7 @@ strong {
 form input {
     min-width: 200px;
     min-height: 30px;
+    margin-top: 5%;
 }
 
 form button{
@@ -102,4 +97,11 @@ footer section ul li :hover{
 
 body{
     background-color: black;
+}
+
+.bar {
+    padding: 10px;
+    background-color: rgb(56, 0, 0);
+    border-top: solid 1px red;
+    border-bottom: solid 1px red;
 }
