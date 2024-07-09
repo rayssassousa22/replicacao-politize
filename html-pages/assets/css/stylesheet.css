@@ -370,6 +370,11 @@ footer{
     flex-direction: column;
 }
 
+.contact{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 .contact .footer-logo a h2{
     font-size: 4rem;
     margin-top: 3rem;
@@ -379,4 +384,8 @@ footer{
     width: 15vw;
     margin-top: 30vh;
     margin-bottom: 5vh;
+}
+
+.contact-information{
+    text-align: right;
 }
