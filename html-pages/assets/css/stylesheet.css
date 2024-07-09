@@ -10,6 +10,11 @@ body{
     src: url(/html-pages/assets/fonts/Poppins-Medium.ttf);
 }
 
+@font-face {
+    font-family: sertao;
+    src: url(/html-pages/assets/fonts/YatraOne-Regular.ttf);
+}
+
 header{
     font-family: poppins;
     display: flex;
@@ -159,4 +164,25 @@ iframe {
     margin: 0;
     font-style: italic;
     text-align: center;
+}
+
+.section-02{
+    background-color: #FFB202;
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+    padding: 2rem;
+    font-family: sertao;
+    justify-content: center;
+}
+
+.section-02 h1{
+    font-size: 2.5rem;
+    width: 40vw;
+    color: black;
+    text-transform: uppercase;
+}
+
+.section-02 img{
+    width: 30vw;
 }
