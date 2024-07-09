@@ -288,7 +288,11 @@ li::marker{
 footer{
     background-color: black;
     color: white;
-    position: relative;
+}
+
+#footer-content{
+    width: 60%;
+    margin: 0 auto;
 }
 
 .patrocinadores h3{
@@ -313,6 +317,7 @@ footer{
     height: 60vh;
     margin: 5% auto;
     text-align: right;
+    position: relative;
 }
 
 .background h4{
@@ -357,6 +362,21 @@ footer{
 .doacao .background img {
     position: absolute;
     right: 50%;
-    bottom:10%;
     height: 75vh;
+}
+
+.footer-logo{
+    display: flex;
+    flex-direction: column;
+}
+
+.contact .footer-logo a h2{
+    font-size: 4rem;
+    margin-top: 3rem;
+}
+
+.contact .footer-logo img{
+    width: 15vw;
+    margin-top: 30vh;
+    margin-bottom: 5vh;
 }
