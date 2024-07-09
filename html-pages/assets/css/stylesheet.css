@@ -102,13 +102,21 @@ iframe {
 
 .content{
     display: flex;
-    background-color: rgb(21, 121, 252);
+    flex-direction: column;
+    background-color: rgb(2, 109, 248);
     color: white;
-    height: 15vh;
+    height: 40vh;
     font-size: 3rem;
+    align-items: center;
 }
 
 .timer{
     font-size: 2rem;
-    display: flex;
+    display: inline-block;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.date-time h3, .date-time h4{
+    margin: 0;
 }
