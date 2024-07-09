@@ -389,3 +389,38 @@ footer{
 .contact-information{
     text-align: right;
 }
+
+
+.contact-information a {
+    text-decoration: underline;
+    color: white;
+}
+
+#email{
+    margin: 5rem auto;
+}
+
+#email p{
+    font-size: 1.5rem;
+}
+
+.midias-sociais p{
+    font-size: 1.5rem;
+}
+
+.midias-sociais ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1rem;
+    justify-items: end;
+    width: fit-content;
+    margin: 2rem 1rem 1rem auto;
+}
+
+.midias-sociais ul li {
+    list-style: none;
+}
+
+.midias-sociais{
+    margin-bottom: 8rem;
+}
