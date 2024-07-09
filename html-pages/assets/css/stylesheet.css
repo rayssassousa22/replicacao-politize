@@ -247,3 +247,12 @@ li::marker{
 .section-06 #acoes-presenciais img {
     max-width: 25vw;
 }
+
+.section-07{
+    background-color: #FF6600;
+    font-size: 2rem;
+}
+
+.section-07 .links img{
+    margin-right: 4rem;
+}
