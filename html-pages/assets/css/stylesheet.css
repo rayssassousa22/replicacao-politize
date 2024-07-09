@@ -261,3 +261,15 @@ li::marker{
     background-color: #009933;
     font-size: 2rem;
 }
+
+.resultados{
+    display: flex;
+    width: 55vw;
+    font-size: 1.8rem;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+
+.resultados img {
+    width: 25vw;
+}
