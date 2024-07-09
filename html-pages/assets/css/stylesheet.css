@@ -87,3 +87,8 @@ form, .acess{
 .acess nav a:hover{
     color: gold;
 }
+
+#display-video iframe {
+    width: 100%;
+    height: 50vh;
+}
