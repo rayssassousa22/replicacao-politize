@@ -284,3 +284,28 @@ li::marker{
 .section-09 img {
     width: 30vw;
 }
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+.patrocinadores h3{
+    font-size: 2rem;
+    padding-bottom: 1rem;
+    margin: 0;
+}
+
+.patrocinadores-logo{
+    display: flex;
+    justify-content: center;
+}
+
+.patrocinadores-logo img {
+    max-width: 10vw;
+    margin-right: 5rem;
+}
+
+.background{
+    background-color: #DB8D39;
+}
