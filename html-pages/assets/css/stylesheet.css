@@ -288,6 +288,7 @@ li::marker{
 footer{
     background-color: black;
     color: white;
+    position: relative;
 }
 
 .patrocinadores h3{
@@ -308,4 +309,14 @@ footer{
 
 .background{
     background-color: #DB8D39;
+    width: 60vw;
+    height: 60vh;
+    margin: 5% auto;
+}
+
+.doacao .background img {
+    position: absolute;
+    right: 50%;
+    bottom:10%;
+    height: 75vh;
 }
