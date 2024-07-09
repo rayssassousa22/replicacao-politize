@@ -388,7 +388,6 @@ footer{
 
 .contact-information{
     text-align: right;
-
 }
 
 .contact-information a {
@@ -400,12 +399,20 @@ footer{
     margin: 5rem auto;
 }
 
+#email a {
+    text-decoration: none;
+}
+
 #email p{
     font-size: 1.5rem;
 }
 
 .midias-sociais p{
     font-size: 1.5rem;
+}
+
+.midias-sociais a{
+    text-decoration: none;
 }
 
 .midias-sociais ul{
