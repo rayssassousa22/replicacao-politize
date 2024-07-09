@@ -171,7 +171,6 @@ iframe {
     display: flex;
     flex-direction: row;
     height: fit-content;
-    padding: 2rem;
     font-family: sertao;
     justify-content: center;
 }
