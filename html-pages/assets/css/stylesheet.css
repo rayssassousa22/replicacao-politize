@@ -105,9 +105,10 @@ iframe {
     flex-direction: column;
     background-color: rgb(2, 109, 248);
     color: white;
-    height: 40vh;
+    height: fit-content;
     font-size: 3rem;
     align-items: center;
+    padding: 3rem;
 }
 
 .timer{
@@ -119,4 +120,11 @@ iframe {
 
 .date-time h3, .date-time h4{
     margin: 0;
+}
+
+.section-01{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-size: 1rem;
 }
