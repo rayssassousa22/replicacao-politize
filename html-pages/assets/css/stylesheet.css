@@ -1,6 +1,8 @@
 body{
     margin: 0;
     box-sizing: border-box;
+    font-family: poppins;
+    color: black;
 }
 
 @font-face {
@@ -88,7 +90,25 @@ form, .acess{
     color: gold;
 }
 
-#display-video iframe {
+#display-video{
     width: 100%;
-    height: 50vh;
+    height: 80vh;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.content{
+    display: flex;
+    background-color: rgb(21, 121, 252);
+    color: white;
+    height: 15vh;
+    font-size: 3rem;
+}
+
+.timer{
+    font-size: 2rem;
+    display: flex;
 }
