@@ -56,7 +56,21 @@ button img {
     width: 100%;
 }
 
-form{
+form, .acess{
     display: flex;
     justify-content:center;
+}
+
+.acess button {
+    background-color: gold;
+    font-weight: 600;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 1rem;
+    margin-right: 1rem;
+}
+
+.acess button:hover{
+    background-color: white;
 }
