@@ -330,6 +330,23 @@ footer{
     margin-right: 1rem;
 }
 
+.background .doe{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    width: 50%;
+    margin: 2rem 1rem 1rem auto;
+}
+
+.background button{
+    padding: 1rem;
+    background-color: transparent;
+    border: 1px solid black;
+    font-size: 1.5rem;
+    width: fit-content;
+    font-family: poppins;
+}
+
 .doacao .background img {
     position: absolute;
     right: 50%;
