@@ -388,8 +388,8 @@ footer{
 
 .contact-information{
     text-align: right;
-}
 
+}
 
 .contact-information a {
     text-decoration: underline;
@@ -411,8 +411,8 @@ footer{
 .midias-sociais ul{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 1rem;
-    justify-items: end;
+    column-gap: 2rem;
+    justify-items: start;
     width: fit-content;
     margin: 2rem 1rem 1rem auto;
 }
