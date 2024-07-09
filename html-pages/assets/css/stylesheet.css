@@ -61,6 +61,10 @@ form, .acess{
     justify-content:center;
 }
 
+.acess{
+    align-items: center;
+}
+
 .acess button {
     background-color: gold;
     font-weight: 600;
@@ -68,9 +72,18 @@ form, .acess{
     border-radius: 5px;
     border: 0;
     font-size: 1rem;
-    margin-right: 1rem;
+    margin-right: 3rem;
 }
 
 .acess button:hover{
     background-color: white;
+}
+
+.acess nav a{
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.acess nav a:hover{
+    color: gold;
 }
