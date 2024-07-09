@@ -273,3 +273,14 @@ li::marker{
 .resultados img {
     width: 25vw;
 }
+
+.section-09{
+    background-color: #FFB202;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.section-09 img {
+    width: 30vw;
+}
