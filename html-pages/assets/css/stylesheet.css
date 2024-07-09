@@ -188,6 +188,7 @@ iframe {
 
 .section-04{
     background-color: #009933;
+    font-family: sans-serif;
 }
 
 #material{
@@ -198,5 +199,5 @@ iframe {
 
 .section-04 a img, .section-04 p {
     max-width: 30vw;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
