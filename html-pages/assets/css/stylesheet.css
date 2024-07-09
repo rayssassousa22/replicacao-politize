@@ -232,3 +232,18 @@ iframe {
 li::marker{
     color: white;
 }
+
+.section-06{
+    background-color: deeppink;
+    font-size: 2rem;
+}
+
+#acoes-presenciais{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10vw;
+}
+
+.section-06 #acoes-presenciais img {
+    max-width: 25vw;
+}
