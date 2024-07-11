@@ -37,6 +37,32 @@ header:has(a h2){
 a:has(h2):hover{
     color: #FFB202;
     transition: color 1.5s linear;
+    animation-name: logo;
+    animation-duration: 10s;
+}
+
+@keyframes logo {
+    0%{
+        color: #FFB202;
+    }
+    15%{
+        color: #1ff366;
+    }
+    30%{
+        color: blue;
+    }
+    45%{
+        color: rgb(255, 152, 169);
+    }
+    60%{
+        color: white;
+    }
+    75%{
+        color: #DB8D39;
+    }
+    100%{
+        color: #FFB202;
+    }
 }
 
 a h2 b{
