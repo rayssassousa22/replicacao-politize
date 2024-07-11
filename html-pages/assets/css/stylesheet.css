@@ -121,6 +121,7 @@ form, .acess{
 
 .acess nav a:hover{
     color: gold;
+    transition: color 1s ease-out;
 }
 
 #display-video{
