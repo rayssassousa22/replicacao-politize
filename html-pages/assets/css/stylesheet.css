@@ -39,29 +39,24 @@ a:has(h2):hover{
     transition: color 1.5s linear;
     animation-name: logo;
     animation-duration: 7s;
+    animation-iteration-count: infinite;
 }
 
 @keyframes logo {
-    0%{
-        color: #FFB202;
-    }
-    15%{
+    20%{
         color: #1ff366;
     }
-    30%{
+    40%{
         color: blue;
     }
-    45%{
+    60%{
         color: rgb(255, 152, 169);
     }
-    60%{
+    80%{
         color: white;
     }
-    75%{
-        color: #DB8D39;
-    }
     100%{
-        color: #FFB202;
+        color: #DB8D39;
     }
 }
 
