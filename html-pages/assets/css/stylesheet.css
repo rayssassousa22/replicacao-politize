@@ -39,7 +39,7 @@ a:has(h2):hover{
     transition: color 1.5s linear;
     animation-name: logo;
     animation-duration: 7s;
-    animation-iteration-count: infinite;
+    animation-iteration-count: infinite; /*very useful*/
 }
 
 @keyframes logo {
