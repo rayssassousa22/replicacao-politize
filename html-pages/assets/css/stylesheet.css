@@ -71,6 +71,7 @@ form input{
     width: 25vw;
     font-family: poppins;
     font-size: 1rem;
+    color: white;
 }               
 
 form input :has([placeholder]):placeholder-shown{
