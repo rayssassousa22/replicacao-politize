@@ -38,7 +38,7 @@ a:has(h2):hover{
     color: #FFB202;
     transition: color 1.5s linear;
     animation-name: logo;
-    animation-duration: 10s;
+    animation-duration: 7s;
 }
 
 @keyframes logo {
