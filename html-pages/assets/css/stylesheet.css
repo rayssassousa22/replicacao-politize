@@ -145,6 +145,29 @@ iframe {
     padding: 3rem;
 }
 
+#animacao{
+    animation-name: rotativo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+#animacao:hover{
+    animation-play-state: paused;
+}
+
+@keyframes rotativo{
+    50%{
+        transform: translateX(100px)
+    }
+    75%{
+        transform: translateX(-100px);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
+
 .timer{
     font-size: 2rem;
     display: inline-block;
